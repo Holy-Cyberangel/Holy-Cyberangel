@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ,I'm Zhu Lianjun👋
 
 <!--
 **Holy-Cyberangel/Holy-Cyberangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I received my bachelor's degree in Intelligent Science and Technology from Hangzhou Dianzi University, and I am currently pursuing a master's degree in Control Engineering at the same university. My main research interests include RFS-SLAM and extended object tracking.
+### I am also interested in large language models. I participated in a China Mobile competition, where I applied fine-tuning techniques on large models and won an excellence award.
+### I enjoy programming and find great satisfaction in building complete projects from scratch. I am particularly good at leveraging AI as a learning tool to quickly acquire new knowledge and skills. Because of this, I take a relatively cautious attitude toward vibe coding.
